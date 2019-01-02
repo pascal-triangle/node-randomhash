@@ -1,0 +1,32 @@
+{
+    "name": "node-randomhash",
+    "version": "0.0.10",
+    "description": "Node.js bindings for PascalCoin's RandomHash",
+    "homepage": "https://github.com/PascalCoinFreePool/node-randomhash",
+    "license": "CC0-1.0",
+    "main": "index.js",
+    "author": {
+        "name": "PascalCoin",
+        "email": "contact@pascalcoin.org",
+        "url": "https://www.pascalcoin.org/"
+    },
+    "contributors": [
+        {
+            "name": "Polyminer1",
+            "email": "42607227+polyminer1@users.noreply.github.com",
+            "url": "https://github.com/polyminer1"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PascalCoinFreePool/node-randomhash.git"
+    },
+    "dependencies" : {
+        "bindings" : "*",
+        "nan": "^2.0.0"
+    },
+    "keywords": [
+        "randomhash",
+        "pascalcoin"
+    ]
+}
